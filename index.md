@@ -2,8 +2,6 @@
 title: Welcome to my blog
 ---
 
-##About Me
-
 Hi ✨ 
 
 Myself Joseph Jaison  
