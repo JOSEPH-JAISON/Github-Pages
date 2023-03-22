@@ -3,7 +3,7 @@ title: Welcome to my blog
 ---
 
 ---
-About Me
+title: About Me
 ---
 Hi :sparkles: 
 
