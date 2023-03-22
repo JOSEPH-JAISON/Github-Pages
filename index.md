@@ -2,10 +2,9 @@
 title: Welcome to my blog
 ---
 
----
-title: About Me
----
-Hi :sparkles: 
+##title: About Me
+
+Hi ✨ 
 
 Myself Joseph Jaison  
 
