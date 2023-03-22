@@ -5,8 +5,9 @@ title: Welcome to my blog
 ---
 About Me
 ---
-Hi :sparkles:\  
+Hi :sparkles: 
 
-Myself Joseph Jaison\ 
+Myself Joseph Jaison  
+
 I am a second year Electronics and Communication Engineering student at College of Engineering Chengannur.
 
