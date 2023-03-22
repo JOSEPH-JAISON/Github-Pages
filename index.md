@@ -2,7 +2,7 @@
 title: Welcome to my blog
 ---
 
-##title: About Me
+##About Me
 
 Hi ✨ 
 
